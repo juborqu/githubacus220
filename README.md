@@ -1,2 +1,2 @@
 # githubacus220
-objetivo proyecto github
+objetivo proyecto github sistema de control de versiones
